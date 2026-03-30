@@ -23,6 +23,7 @@ Node.js (if backend used)
 ✔ Clean and modern UI
 
 📁 Folder Structure
+
 portfolio/
 │── public/
 │── src/
